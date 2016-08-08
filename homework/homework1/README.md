@@ -1,5 +1,6 @@
 <b>
 AIML-15: Machine Learning, Homework 1.
+==============
 
 Principal Component Analysis and Naive Bayes Classification
 </b>
@@ -24,7 +25,7 @@ Principal Component Analysis and Naive Bayes Classification
 
 4. How would you decide on the number of principal components needed to preserve data without much distortion?
 
-<b>Classification.<b>
+<b>Classification.</b>
 1. Write down formulation of Naive Bayes classifer
 
 2. Split examples in X and y into training and testing set. 
