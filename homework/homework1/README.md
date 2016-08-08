@@ -3,11 +3,12 @@ AIML-15: Machine Learning, Homework 1.
 ==============
 
 Principal Component Analysis and Naive Bayes Classification
+==============
 </b>
 <i>November 16, 2015</i>
 
 
-<b>Data preparation.</b> In this homework you will work with the COIL-100 [1] dataset of 100 visual object categories. The dataset contains  7000, 128x128 colored images with subtracted background. Steps:
+<b>Data preparation.</b> In this homework you will work with the COIL-100 [1] dataset of 100 visual object categories. The dataset contains 7000, 128x128 colored images with subtracted background. Steps:
 
 1. Download and unpack dataset from http://www.cs.columbia.edu/CAVE/databases/SLAM_coil-20_coil-100/coil-100/coil-100.zip.
 
