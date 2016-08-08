@@ -1,8 +1,10 @@
 AIML-15: Machine Learning, Homework 3.
+==============
 K-Means, GMM+EM, and Clustering Evaluation
+==============
 December 1, 2015
 
-<b>Data preparation.<b> In this homework you will work with the MNIST [1] dataset composed from 10 classes of handwritten digits. The dataset contains 70000,
+<b>Data preparation.</b> In this homework you will work with the MNIST [1] dataset composed from 10 classes of handwritten digits. The dataset contains 70000,
 28 x 28 images. 
 
 <b>Clustering with K-Means.</b>
