@@ -1,6 +1,8 @@
+<b>
 AIML-15: Machine Learning, Homework 1.
 Principal Component Analysis and Naive Bayes Classification
-November 16, 2015
+</b
+<i>November 16, 2015</i>
 
 General information. Problem solutions should be submitted in PDF format
 in report style (no source code listings required). All reports must be
