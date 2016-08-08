@@ -1,5 +1,6 @@
 <b>
 AIML-15: Machine Learning, Homework 1.
+
 Principal Component Analysis and Naive Bayes Classification
 </b
 <i>November 16, 2015</i>
